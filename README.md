@@ -19,10 +19,10 @@ pip3 install customtkinter
 
 <p>Para utilizar o programa, primeiro entre no site <a href="http://www.aircommandrockets.com/sim/simulator.htm">http://www.aircommandrockets.com/sim/simulator.htm</a> e simule um foguete com as caracteristicas desejadas.</p>
 <p>Após simular o foguete, vá para a a parte inferior do site e clicke em "Raw Data"</p>
-<img src="images/tutorial/1.JPG" alt="Site do AirCommand">
+<img src="images/1.JPG" alt="Site do AirCommand">
 <p>Copie todos os números , e ignore a primeira linha</p>
 <p>Cole os dados copiados na área indicada</p>
-<img src="images/tutorial/2.JPG" alt="Cole os dados">
+<img src="images/2.JPG" alt="Cole os dados">
 após colar, complete as lacunas do lado direito de acordo com as caracteristicas do motor, mais detalhes de como esse tipo de arquivo funciona pode ser encontrado <a href="https://www.thrustcurve.org/info/raspformat.html">neste site</a>
 <p>com o arquivo gerado pelo programa, podemos simular o lançamento do foguete utilizando o OpenRocket, basta importa-lo, mais instruções podem ser encontrados <a href="https://openrocket.info/tutorials/motor-selection.html#adding-your-own-motor-files">aqui</a></p>
 
